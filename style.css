@@ -1,0 +1,55 @@
+.nav {
+  float: right;
+  background-color: transparent;
+  font-family: 'Helvetica';
+}
+
+.content_main {
+  text-align: center;
+  padding: 200px 0 200px;
+  font-family: 'Copperplate';
+  color: white;
+}
+
+.content_watch {
+  text-align: center;
+  padding: 70px 0 200px;
+  font-family: 'Copperplate';
+}
+
+.dania, .daeun {
+  height: 100vh;
+  width: 100%;
+}
+
+.dania {
+  background: white;
+  text-align: center;
+  padding: 250px 0 300px;
+  font-family: 'Copperplate';
+  color: #57068C;
+}
+
+.dania_detail {
+  background: white;
+  text-align: center;
+  padding: 250px 0 300px;
+  font-family: 'Copperplate';
+  color: #57068C;
+}
+
+.daeun {
+  background: #57068C;
+  text-align: center;
+  padding: 250px 0 300px;
+  font-family: 'Copperplate';
+  color: white;
+}
+
+.daeun_detail {
+  background: #57068C;
+  text-align: center;
+  padding: 250px 0 300px;
+  font-family: 'Copperplate';
+  color: white;
+}
