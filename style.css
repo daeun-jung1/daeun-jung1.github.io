@@ -13,8 +13,9 @@
 
 .content_watch {
   text-align: center;
-  padding: 70px 0 200px;
+  padding: 70px 0 70px;
   font-family: 'Copperplate';
+  color: #57068C;
 }
 
 .dania, .daeun {
@@ -27,6 +28,10 @@
   text-align: center;
   padding: 250px 0 300px;
   font-family: 'Copperplate';
+  color: #57068C;
+}
+
+a.dania-link {
   color: #57068C;
 }
 
@@ -46,10 +51,24 @@
   color: white;
 }
 
+a.daeun-link {
+  color: white;
+}
+
 .daeun_detail {
   background: #57068C;
   text-align: center;
   padding: 250px 0 300px;
   font-family: 'Copperplate';
   color: white;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 180px;
+  width: 200px;
 }
